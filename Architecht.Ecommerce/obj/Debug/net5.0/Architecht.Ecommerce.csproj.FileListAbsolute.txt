@@ -1,0 +1,12 @@
+C:\Users\Cyper\source\repos\Architecht.UnitTest\Architecht.Example\obj\Debug\net5.0\Architecht.Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cyper\source\repos\Architecht.UnitTest\Architecht.Example\obj\Debug\net5.0\Architecht.Ecommerce.AssemblyInfoInputs.cache
+C:\Users\Cyper\source\repos\Architecht.UnitTest\Architecht.Example\obj\Debug\net5.0\Architecht.Ecommerce.AssemblyInfo.cs
+C:\Users\Cyper\source\repos\Architecht.UnitTest\Architecht.Example\obj\Debug\net5.0\Architecht.Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\Cyper\source\repos\Architecht.UnitTest\Architecht.Example\bin\Debug\net5.0\Architecht.Ecommerce.deps.json
+C:\Users\Cyper\source\repos\Architecht.UnitTest\Architecht.Example\bin\Debug\net5.0\Architecht.Ecommerce.dll
+C:\Users\Cyper\source\repos\Architecht.UnitTest\Architecht.Example\bin\Debug\net5.0\ref\Architecht.Ecommerce.dll
+C:\Users\Cyper\source\repos\Architecht.UnitTest\Architecht.Example\bin\Debug\net5.0\Architecht.Ecommerce.pdb
+C:\Users\Cyper\source\repos\Architecht.UnitTest\Architecht.Example\obj\Debug\net5.0\Architecht.Ecommerce.dll
+C:\Users\Cyper\source\repos\Architecht.UnitTest\Architecht.Example\obj\Debug\net5.0\ref\Architecht.Ecommerce.dll
+C:\Users\Cyper\source\repos\Architecht.UnitTest\Architecht.Example\obj\Debug\net5.0\Architecht.Ecommerce.pdb
+C:\Users\Cyper\source\repos\Architecht.UnitTest\Architecht.Example\obj\Debug\net5.0\Architecht.Ecommerce.csprojAssemblyReference.cache
